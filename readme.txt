@@ -5,3 +5,6 @@ Gemfile manages the gems and has to up to date before deploying Heroku.
 
 config.ru is a set of instructions for Heroku to follow
 	ru stands for rack up
+
+yml is like json
+
