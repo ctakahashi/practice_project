@@ -4,9 +4,8 @@ class CreateModel < ActiveRecord::Migration
   		t.string :name
   	end
   end
-
+ 
   def down
   	drop_table :models
   end
-
 end
